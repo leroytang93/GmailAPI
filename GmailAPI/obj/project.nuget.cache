@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BvX2BADZZZwnAITZswyCjta00m/3u1f/+8jb0DSD+Yudg+WhNG2j5qluhLDUYTnObwG3HAaJ9ORFQ61LGD0jZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leroy Tang\\source\\repos\\GmailAPI\\GmailAPI\\GmailAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leroy Tang\\.nuget\\packages\\google.apis\\1.49.0\\google.apis.1.49.0.nupkg.sha512",
+    "C:\\Users\\Leroy Tang\\.nuget\\packages\\google.apis.auth\\1.49.0\\google.apis.auth.1.49.0.nupkg.sha512",
+    "C:\\Users\\Leroy Tang\\.nuget\\packages\\google.apis.core\\1.49.0\\google.apis.core.1.49.0.nupkg.sha512",
+    "C:\\Users\\Leroy Tang\\.nuget\\packages\\google.apis.gmail.v1\\1.49.0.2055\\google.apis.gmail.v1.1.49.0.2055.nupkg.sha512",
+    "C:\\Users\\Leroy Tang\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512",
+    "C:\\Users\\Leroy Tang\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
